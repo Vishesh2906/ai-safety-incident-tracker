@@ -16,9 +16,3 @@ A web app built with TypeScript to track, filter, and report AI safety incidents
 - HTML/CSS
 - (Optional frameworks/libraries like React, if used)
 
-## 📸 Screenshots
-
-_Add screenshots or GIFs of your app here for visual appeal._
-
-## 📂 Folder Structure
-
